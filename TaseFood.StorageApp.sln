@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaseFood.StorageApp", "TaseFood.StorageApp.csproj", "{68CB7758-7F7D-4F33-96FE-2DCA459EBC23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CB7758-7F7D-4F33-96FE-2DCA459EBC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CB7758-7F7D-4F33-96FE-2DCA459EBC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CB7758-7F7D-4F33-96FE-2DCA459EBC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CB7758-7F7D-4F33-96FE-2DCA459EBC23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66815A6D-0BF2-40BE-958A-921B238BD21A}
+	EndGlobalSection
+EndGlobal
